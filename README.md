@@ -10,13 +10,28 @@
 - Check numbers by types such as mobile, fixed line, voip etc.
 - Import any quantity of phone numbers for validation.
 - Can handle large volumes of requests smoothly.
+- Ultra fast checking.
 - No Third-Party API Key Required.
+
+
+## 功能：
+
+- 支持 206 个国家/地区的电话号码验证。
+- 确保电话号码的准确性。
+- 按运营商验证号码。
+- 按类型验证号码，例如手机、固话、VoIP 等。
+- 可导入任意数量的电话号码进行验证。
+- 可流畅处理大量请求。
+- 超快验证速度。
+- 无需第三方 API 密钥。
 
 ---
 
 ## 🤝 Get in Touch
 
 if you want to purchase,
+
+如果你想购买，
 
 - Email     : elowenreply@gmail.com
 - Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
