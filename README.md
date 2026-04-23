@@ -11,7 +11,7 @@
 - Import any quantity of phone numbers for validation.
 - Can handle large volumes of requests smoothly.
 - Ultra fast checking.
-- No Third-Party API Key Required.
+- No Third-Party API Key is Required.
 
 
 ## 功能：
