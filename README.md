@@ -4,14 +4,14 @@
 ![Phone Number Carrier Lookup](https://raw.githubusercontent.com/pythoncode26/carrier-checker-pro/refs/heads/main/phone-number-carrier-checker.png)
 
 ## Features:
-- Supports phone number verification across 206 countries.
-- Ensure the accuracy of the phone numbers.
-- Check numbers by carriers.
-- Check numbers by types such as mobile, fixed line, voip etc.
-- Import any quantity of phone numbers for validation.
-- Can handle large volumes of requests smoothly.
-- Ultra fast checking.
-- No Third-Party API Key is Required.
+- Supports phone number verification across 206 countries
+- Ensure the accuracy of the phone numbers
+- Check numbers by carriers
+- Check numbers by types such as mobile, fixed line, voip etc
+- Import any quantity of phone numbers for validation
+- Can handle large volumes of requests smoothly
+- Ultra fast checking
+- No Third-Party API Key is Required
 
 
 ## 功能：
